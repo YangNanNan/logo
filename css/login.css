@@ -25,7 +25,7 @@ input{background:transparent;-webkit-appearance:none;appearance:none;outline:non
 .login_successful p.successText{margin-top:.3rem;}
 /*注册成功样式结束*/
 /*宣传页样式开始*/
-.propaganda{position:relative;width:6.4rem;height:100%;}
+.propaganda{position:relative;width:6.4rem;height:10.96rem;}
 .propaganda img{width:100%;height:100%;}
-.propaganda p a{margin-left:1.64rem;position:absolute;bottom:3.46rem;display:inline-block;width:3.07rem;height:.62rem;line-height:.62rem;text-align: center;color:#ff6d01;font-size:.28rem;background:url("../images/btnbg.png") no-repeat;background-size:cover;}
+.propaganda p a{margin-left:1.64rem;position:absolute;bottom:3.46rem;display:inline-block;width:3.07rem;height:.67rem;line-height:.62rem;text-align: center;color:#ff6d01;font-size:.28rem;background:url("../images/btnbg.png") no-repeat;background-size:cover;}
 /*宣传页样式结束*/
